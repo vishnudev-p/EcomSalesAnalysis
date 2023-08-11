@@ -16,3 +16,5 @@ Distribution of Payment Types::
 A bar plot displays the distribution of different payment methods used in transactions.
 Monthly Sales Analysis::
 This segment converts the 'order_purchase_timestamp' column to a datetime format to facilitate time-series analysis. The month and year from each timestamp are then extracted to represent the time of each sale. Finally, the sales data is aggregated by month and visualized as a line chart to showcase sales trends over time.
+
+In this repositiories i also attached the dataset files of olistbr/brazilian-ecommerce("Dataset.csv")

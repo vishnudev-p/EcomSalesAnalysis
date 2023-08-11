@@ -1,4 +1,5 @@
 E-commerce Sales Forecasting Project  Explanation:-
+
 Title::The title of this section could be "E-commerce Sales Forecasting Project". It indicates that the project focuses on sales data from an e-commerce platform and aims to analyze and possibly predict sales.
 Data Loading::The code starts by importing the pandas library, which is a foundational tool for data manipulation and analysis. Following the import statement, several datasets related to e-commerce orders, products, customers, and more are loaded into individual DataFrames from their respective CSV files.
 Merging Datasets::Multiple datasets are merged based on a common column, the 'order_id'. The merging process aims to combine relevant data from different sources into a single DataFrame, merged_data, which facilitates a comprehensive analysis.
